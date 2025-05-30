@@ -1,1 +1,3 @@
-txt<br>User-agent: *<br>Allow: /<br>Sitemap: https://www.maxslandscapingservices.com/sitemap.xml
+User-agent: *
+Allow: /
+Sitemap: https://www.maxslandscapingservices.com/sitemap.xml
