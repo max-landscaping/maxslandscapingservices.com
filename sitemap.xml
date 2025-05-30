@@ -1,1 +1,8 @@
-<xml<br><?xml version="1.0" encoding="UTF-8"?><br><urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"><br> <url><br> <loc>https://www.maxslandscapingservices.com/</loc><br> <lastmod>2025-05-29</lastmod><!-- update if you change the site --><br> <priority>1.00</priority><br> </url><br></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.maxslandscapingservices.com/</loc>
+    <lastmod>2025-05-29</lastmod>
+    <priority>1.00</priority>
+  </url>
+</urlset>
